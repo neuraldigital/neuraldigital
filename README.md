@@ -59,10 +59,10 @@
 </picture>
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/neuraldigital/Vhaenzz">Vhaenzz</a></h3>
+<h3><a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Ceyloro</a></h3>
 <p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/neuraldigital/Vhaenzz">Read the repository →</a></p>
+<p><sub>⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Read the repository →</a></p>
 </td>
 </tr>
 </table>
