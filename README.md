@@ -52,13 +52,7 @@
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fv%3D4&repos=Neural-Operations-Digital-Engineering%2FCeyloro&v=recruiter-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fv%3D4&repos=Neural-Operations-Digital-Engineering%2FCeyloro&v=recruiter-projects-2&mode=dark" width="100%" alt="Neural Operations &amp; Digital Engineering selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
+<td width="100%" valign="top">
 <h3><a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Ceyloro</a></h3>
 <p>Local-first desktop file converter and utility with a radial workflow for images, documents, audio, video, subtitles, and archives.</p>
 <p><sub>⭐ 2 · 🍴 1 · Swift · macOS + Windows preview</sub></p>
