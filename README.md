@@ -59,6 +59,14 @@
 <p><a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Read the repository →</a></p>
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top">
+<h3><a href="https://github.com/Neural-Operations-Digital-Engineering/umroh">Risalah Madina Tour</a></h3>
+<p>Public website and CMS for a Hajj and Umrah travel bureau, with package discovery, inquiry flows, editorial content, media management, Supabase authentication, and an admin dashboard.</p>
+<p><sub>⭐ 1 · 🍴 0 · TypeScript · Next.js · Supabase</sub></p>
+<p><a href="https://github.com/Neural-Operations-Digital-Engineering/umroh">Read the repository →</a></p>
+</td>
+</tr>
 </table>
 
 <h2>Technical toolkit</h2>
