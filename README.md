@@ -1,109 +1,65 @@
 <div align="center">
-
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · neuraldigital</sub></p>
-<h1>Neural Operations &amp; Digital Engineering</h1>
-<h2>Product-minded developer</h2>
-<p>Boutique digital engineering studio. We design, build, and ship software, systems, and everything in between. Indonesia.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Semarang, Java Indonesian · Building at Freelance / Independent</sub></p>
-<p><a href="https://github.com/neuraldigital">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/304299207?u=19fd763a6997c6cbb15b7127576740134e73820d&amp;v=4" width="180" alt="Neural Operations &amp; Digital Engineering GitHub avatar" />
-</td>
-</tr>
-</table>
+  <img src="https://avatars.githubusercontent.com/u/304299207?v=4" width="120" alt="Neural Operations & Digital Engineering" />
+  <h1>Neural Operations &amp; Digital Engineering</h1>
+  <p><strong>Product-minded developer · Independent builder · Indonesia</strong></p>
+  <p>Designing and shipping practical software, systems, and digital products.</p>
+  <p>
+    <a href="https://github.com/Neural-Operations-Digital-Engineering">Organization</a>
+    ·
+    <a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Flagship project</a>
+  </p>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+## What I am building
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>15 contributions · 5 active days</p></td>
-</tr>
-</table>
+I work across product thinking, software engineering, and delivery. My public
+work is focused on useful tools and systems that solve concrete problems without
+adding unnecessary complexity.
 
-<p><sub>Boutique digital engineering studio. We design, build, and ship software, systems, and everything in between. Indonesia.</sub></p>
+The main public project is **Ceyloro**, a local-first desktop utility for fast
+file conversion and everyday file operations.
 
-<h2>Proof at a glance</h2>
+## Flagship project
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>15</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+### [Ceyloro](https://github.com/Neural-Operations-Digital-Engineering/Ceyloro)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Neural Operations &amp;amp; Digital Engineering GitHub proof metrics" />
-</picture>
-</p>
+<a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro/releases"><img src="https://img.shields.io/github/v/release/Neural-Operations-Digital-Engineering/Ceyloro?style=flat&label=latest%20release" alt="Latest Ceyloro release" /></a>
+<a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro/stargazers"><img src="https://img.shields.io/github/stars/Neural-Operations-Digital-Engineering/Ceyloro?style=flat&label=stars" alt="Ceyloro stars" /></a>
+<a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro/network/members"><img src="https://img.shields.io/github/forks/Neural-Operations-Digital-Engineering/Ceyloro?style=flat&label=forks" alt="Ceyloro forks" /></a>
 
-<h2>Selected work</h2>
+Ceyloro is a native desktop converter with a radial interaction model. It
+supports local conversion of images, PDFs, audio, video, subtitles, documents,
+and archives, with batch processing, compression, progress reporting, and
+cross-platform engine work in progress.
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&repos=neuraldigital%2FVhaenzz&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&repos=neuraldigital%2FVhaenzz&v=recruiter-projects-1&mode=dark" width="100%" alt="Neural Operations &amp;amp; Digital Engineering selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Ceyloro</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 2 · 🍴 0</sub></p>
-<p><a href="https://github.com/Neural-Operations-Digital-Engineering/Ceyloro">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+- macOS universal app for Intel and Apple Silicon
+- Windows shell for x64 and ARM64 preview builds
+- Offline-first processing; source files are never overwritten
+- Open-core architecture with a MIT-licensed core and proprietary desktop shells
 
-<table width="100%">
-<tr>
+→ [Read the Ceyloro README](https://github.com/Neural-Operations-Digital-Engineering/Ceyloro#readme)
 
-</tr>
-</table>
+## Public work
 
-<h2>Technical toolkit</h2>
+| Project | What it is |
+| --- | --- |
+| [Ceyloro](https://github.com/Neural-Operations-Digital-Engineering/Ceyloro) | Local-first desktop file converter and utility |
+| [Vhaenzz](https://github.com/neuraldigital/Vhaenzz) | Personal public workspace and experiments |
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Neural Operations &amp;amp; Digital Engineering technology stack" />
-</picture>
-</p>
+## Toolkit
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
+Swift · Swift Package Manager · AppKit · ImageIO · PDFKit · AVFoundation ·
+FFmpeg · .NET · WinForms · TypeScript · Next.js · Supabase
 
-<h2>Consistency signal</h2>
+## Working principles
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=neuraldigital&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304299207%3Fu%3D19fd763a6997c6cbb15b7127576740134e73820d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Neural Operations &amp;amp; Digital Engineering contribution activity" />
-</picture>
-</p>
+- Build for a real workflow, not just a demo.
+- Keep the core logic testable and the user interface purposeful.
+- Prefer local processing, clear failure states, and safe file handling.
+- Share useful work in public as it becomes ready.
 
-<hr />
+## Connect
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/neuraldigital">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Neural Operations &amp; Digital Engineering · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+For software, product, or digital engineering work, reach out through
+[GitHub](https://github.com/neuraldigital) or explore the
+[Neural Operations & Digital Engineering organization](https://github.com/Neural-Operations-Digital-Engineering).
